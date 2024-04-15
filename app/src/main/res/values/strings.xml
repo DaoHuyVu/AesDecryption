@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AesDecryption</string>
+    <string name="time_taken">Time taken</string>
+    <string name="ciphertext">Cipher text</string>
+    <string name="plaintext">Plain text</string>
+    <string name="decrypt">Decrypt</string>
+</resources>
